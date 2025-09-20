@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My GitHub Page</title>
+</head>
+<body>
+  <h1>Hello, GitHub!</h1>
+  <p>Welcome to my GitHub Pages website.</p>
+  <a href="https://github.com/" target="_blank">Go to GitHub</a>
+</body>
+</html>
